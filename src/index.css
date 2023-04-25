@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.white-side {
+    background-color: #ffffff;
+  }
+  .blue-side {
+    background-color: #135fc3;
+  }
+  .text-size-logo {
+    font-size: 2rem;
+  }
